@@ -1,0 +1,21 @@
+rules:
+  language: typescript
+  framework: react
+  
+  component_guidelines:
+    - Use functional components with hooks
+    - Implement proper prop validation
+    - Follow component composition patterns
+    - Keep components focused and reusable
+    
+  state_management:
+    - Use appropriate state management solution
+    - Minimize prop drilling
+    - Handle loading and error states
+    - Implement optimistic updates where appropriate
+    
+  styling:
+    - Use CSS modules or styled-components
+    - Follow responsive design principles
+    - Ensure accessibility (WCAG 2.1 AA)
+    - Support dark/light themes

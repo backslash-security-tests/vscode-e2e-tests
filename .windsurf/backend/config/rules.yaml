@@ -1,0 +1,21 @@
+rules:
+  language: typescript
+  framework: express
+  
+  coding_standards:
+    - Use TypeScript strict mode
+    - Implement dependency injection
+    - Follow SOLID principles
+    - Use middleware for cross-cutting concerns
+    
+  security:
+    - Validate all inputs
+    - Use parameterized queries
+    - Implement rate limiting
+    - Enable CORS appropriately
+    
+  performance:
+    - Implement caching strategies
+    - Use database connection pooling
+    - Optimize query performance
+    - Implement pagination for large datasets

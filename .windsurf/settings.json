@@ -1,0 +1,13 @@
+{
+  "model": "claude-3-opus",
+  "context": {
+    "maxTokens": 8192,
+    "temperature": 0.2
+  },
+  "features": {
+    "codeCompletion": true,
+    "codeExplanation": true,
+    "codeRefactoring": true,
+    "testGeneration": true
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "workspace": {
+    "root": "/Users/demidov/DEV/backslash/vscode-e2e-tests",
+    "excludePatterns": [
+      "node_modules/**",
+      "dist/**",
+      ".git/**"
+    ],
+    "includePatterns": [
+      "src/**",
+      "tests/**",
+      "config/**"
+    ]
+  },
+  "permissions": {
+    "fileSystem": {
+      "read": true,
+      "write": true,
+      "execute": false
+    },
+    "network": {
+      "enabled": false
+    }
+  }
+}

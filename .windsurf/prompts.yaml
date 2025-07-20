@@ -1,0 +1,35 @@
+prompts:
+  backend:
+    default: "You are working on a backend TypeScript project"
+    context:
+      - "Use async/await patterns"
+      - "Follow RESTful principles"
+      - "Implement proper error handling"
+  
+  frontend:
+    default: "You are working on a frontend React TypeScript project"
+    context:
+      - "Use functional components"
+      - "Follow React hooks best practices"
+      - "Ensure accessibility compliance"
+  
+  database:
+    default: "You are working with SQL databases"
+    context:
+      - "Optimize queries for performance"
+      - "Ensure data integrity"
+      - "Follow normalization principles"
+
+templates:
+  test_generation: |
+    Generate comprehensive tests for the following code:
+    - Unit tests
+    - Integration tests where applicable
+    - Edge cases
+    
+  documentation: |
+    Generate clear documentation including:
+    - Function/method descriptions
+    - Parameter explanations
+    - Return value details
+    - Usage examples

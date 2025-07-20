@@ -1,0 +1,16 @@
+{
+  "prompts": {
+    "test-generation": {
+      "enabled": true,
+      "template": "Generate comprehensive tests for the selected code"
+    },
+    "documentation": {
+      "enabled": true,
+      "template": "Generate documentation for the selected code"
+    },
+    "refactoring": {
+      "enabled": true,
+      "template": "Suggest refactoring improvements for the selected code"
+    }
+  }
+}

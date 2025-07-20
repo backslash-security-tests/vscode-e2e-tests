@@ -1,0 +1,12 @@
+{
+  "rules": {
+    "language": "typescript",
+    "framework": "react",
+    "guidelines": [
+      "Use functional components with hooks",
+      "Follow React best practices",
+      "Implement proper state management",
+      "Use TypeScript for type safety"
+    ]
+  }
+}

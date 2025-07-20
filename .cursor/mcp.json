@@ -1,0 +1,24 @@
+{
+  "mcpServers": {
+    "filesystem-e2e-cursor": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem-e2e-cursor"
+      ],
+      "env": {
+        "FILESYSTEM_ALLOWED_DIRECTORIES": "/Users/demidov/DEV/backslash/vscode-e2e-tests"
+      }
+    },
+    "sqlite-e2e-cursor": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-sqlite-e2e-cursor"
+      ],
+      "env": {
+        "SQLITE_DATABASE_PATH": "/Users/demidov/DEV/backslash/vscode-e2e-tests/database.sqlite"
+      }
+    }
+  }
+}

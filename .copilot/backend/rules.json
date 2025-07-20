@@ -1,0 +1,12 @@
+{
+  "rules": {
+    "language": "typescript",
+    "framework": "node.js",
+    "guidelines": [
+      "Use async/await for asynchronous operations",
+      "Follow RESTful API design principles",
+      "Implement proper error handling and logging",
+      "Use TypeScript strict mode"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+---
+globs: src/frontend/**/*.ts
+alwaysApply: false
+---
+
+# Frontend Rules - Subdirectory Level
+
+This rule is under the frontend folder under the root folder of the rules in this workspace.
+
+## Location
+
+- **Path**: `.cursor/rules/frontend/root-frontend-subdirectory-rule.mdc`
+- **Scope**: Frontend-specific rules within the workspace
+- **Priority**: Medium (subdirectory-level configuration)
+
+## Purpose
+
+This file contains rules and instructions for Claude that apply specifically to frontend development tasks within this workspace.
+
+## Frontend-Specific Rules
+
+- Use modern React patterns and hooks
+- Follow component composition principles
+- Implement proper state management
+- Ensure responsive design practices
+- Write frontend-specific tests using appropriate testing libraries# Frontend Rules - Subdirectory Level
+
+This rule is under the frontend folder under the root folder of the rules in this workspace.
+
+## Location
+
+- **Path**: `.cursor/rules/frontend/root-frontend-subdirectory-rule.mdc`
+- **Scope**: Frontend-specific rules within the workspace
+- **Priority**: Medium (subdirectory-level configuration)
+
+## Purpose
+
+This file contains rules and instructions for Claude that apply specifically to frontend development tasks within this workspace.
+
+## Frontend-Specific Rules
+
+- Use modern React patterns and hooks
+- Follow component composition principles
+- Implement proper state management
+- Ensure responsive design practices
+- Write frontend-specific tests using appropriate testing libraries

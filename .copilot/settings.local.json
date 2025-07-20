@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "filesystem.read",
+      "filesystem.write",
+      "filesystem.execute"
+    ],
+    "deny": []
+  },
+  "model": "gpt-4o",
+  "workspace_root": "/Users/demidov/DEV/backslash/vscode-e2e-tests"
+}

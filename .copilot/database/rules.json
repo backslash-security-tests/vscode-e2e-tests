@@ -1,0 +1,11 @@
+{
+  "rules": {
+    "type": "sql",
+    "guidelines": [
+      "Use proper indexing strategies",
+      "Follow normalization principles",
+      "Implement proper constraints",
+      "Use transactions for data integrity"
+    ]
+  }
+}

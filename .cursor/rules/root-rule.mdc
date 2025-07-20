@@ -1,0 +1,43 @@
+---
+alwaysApply: true
+---
+
+# Workspace Rules - Root Level
+
+This rule is inside the root folder of rules in the workspace.
+
+## Location
+
+- **Path**: `.cursor/rules/root-rule.mdc`
+- **Scope**: Root level rules for the workspace
+- **Priority**: High (workspace-level configuration)
+
+## Purpose
+
+This file contains rules and instructions for Claude that apply to the entire workspace from the root rules directory.
+
+## Rules
+
+- Follow the established patterns in this workspace
+- Maintain consistency across all components
+- Ensure proper error handling throughout the codebase
+- Use appropriate testing strategies for this project# Workspace Rules - Root Level
+
+This rule is inside the root folder of rules in the workspace.
+
+## Location
+
+- **Path**: `.cursor/rules/root-rule.mdc`
+- **Scope**: Root level rules for the workspace
+- **Priority**: High (workspace-level configuration)
+
+## Purpose
+
+This file contains rules and instructions for Claude that apply to the entire workspace from the root rules directory.
+
+## Rules
+
+- Follow the established patterns in this workspace
+- Maintain consistency across all components
+- Ensure proper error handling throughout the codebase
+- Use appropriate testing strategies for this project

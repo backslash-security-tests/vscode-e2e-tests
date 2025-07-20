@@ -1,0 +1,20 @@
+rules:
+  type: relational
+  
+  schema_design:
+    - Follow normalization principles (3NF minimum)
+    - Use appropriate data types
+    - Implement proper constraints
+    - Design for scalability
+    
+  query_optimization:
+    - Create appropriate indexes
+    - Avoid N+1 queries
+    - Use query explain plans
+    - Implement query caching where beneficial
+    
+  data_integrity:
+    - Use transactions appropriately
+    - Implement foreign key constraints
+    - Add check constraints where needed
+    - Use triggers sparingly
