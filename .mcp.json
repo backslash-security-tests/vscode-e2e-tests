@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "claude-workspace-mcp": {
+      "type": "stdio",
+      "command": "ls",
+      "args": ["-la"],
+      "env": {}
+    }
+  }
+}
